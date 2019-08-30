@@ -5,7 +5,7 @@
 public final class App {
 
     public String getGreeting() {
-        return "Hello world.";
+        return "Hello world and Github!.";
     }
 
     public static void main(final String[] args) {
